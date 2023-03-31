@@ -17,9 +17,13 @@ I am a Full-stack and Blockchain developer with a 🧑‍🎓Bachelor's degree i
 For the last 5 years, I've been working as a web developer and provide support for all the stages of the development life cycle including: development, deployment, testing and maintenance.
 <p>📌Experience</br>
 - DEX, Swap functions and Bridge</br>
-- DeFi development(token staking, farming, bonding)</br>
-- Dapp stack (Web3.js / Ethers.js)</br>
-- NFT Marketplace, NFT staking</br>
+- React (7 years of great experience), Redux(saga | thunk), React Hooks, Storybook, Next.js<br>
+- TailwindCSS, Bootstrap, Material UI (5+ years)<br>
+- JavaScript/TypeScript/ES6+, ESLint (6+ years)<br>
+- Node/Express/Nest.js (4+ years)<br>
+- Postgres, MySQL, MongoDB (5+ years)<br>
+- AWS, Azure DevOps, CI/CD, Pipeline (3+ years)<br>
+- Git, JIRA, Bitbucket (10+ years)<br>
 - Api handling (Moralis)</br>
 - Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
 </p>
