@@ -13,19 +13,17 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+softstar's+!;I'+am+a+fullstack+blockchain+developer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack+++">
 </p>
-I am a Full-stack and Blockchain developer with a 🧑‍🎓Bachelor's degree in Computer Science focused on React&Solidity having 5 years of experience. 
-For the last 5 years, I've been working as a web developer and provide support for all the stages of the development life cycle including: development, deployment, testing and maintenance.
-<p>📌Experience</br>
-- DEX, Swap functions and Bridge</br>
+hello,I am a senior Full-stack developer with ove 7 years of experience in developing beautiful responsive websites using modern Javascript frameworks such as React,Angular and Vue.js
+<p>📌My tech stack:</br>
 - React (7 years of great experience), Redux(saga | thunk), React Hooks, Storybook, Next.js<br>
+- vue2,3,Nuxt.js,Vuetify
 - TailwindCSS, Bootstrap, Material UI (5+ years)<br>
 - JavaScript/TypeScript/ES6+, ESLint (6+ years)<br>
 - Node/Express/Nest.js (4+ years)<br>
 - Postgres, MySQL, MongoDB (5+ years)<br>
 - AWS, Azure DevOps, CI/CD, Pipeline (3+ years)<br>
 - Git, JIRA, Bitbucket (10+ years)<br>
-- Api handling (Moralis)</br>
-- Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
+-Figma to HTML, Pixel-perfect
 </p>
 🔗 How to reach me: softstar116@gmail.com
 
