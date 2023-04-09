@@ -11,12 +11,14 @@
   </p>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+softstar's+!;I'+am+a+fullstack+blockchain+developer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack+++">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+softstar's+!;I'+am+a+fullstack+developer;I+worked+on+Frontend,+Backend,+FullStack+++">
 </p>
 hello,I am a senior Full-stack developer with ove 7 years of experience in developing beautiful responsive websites using modern Javascript frameworks such as React,Angular and Vue.js
 <p>📌My tech stack:</br>
 - React (7 years of great experience), Redux(saga | thunk), React Hooks, Storybook, Next.js<br>
 - vue2,3,Nuxt.js,Vuetify
+- angular.js,angular(6+)
+- php frameworks(laravel,codeignitor,cakephp,symfony)
 - TailwindCSS, Bootstrap, Material UI (5+ years)<br>
 - JavaScript/TypeScript/ES6+, ESLint (6+ years)<br>
 - Node/Express/Nest.js (4+ years)<br>
@@ -24,6 +26,10 @@ hello,I am a senior Full-stack developer with ove 7 years of experience in devel
 - AWS, Azure DevOps, CI/CD, Pipeline (3+ years)<br>
 - Git, JIRA, Bitbucket (10+ years)<br>
 -Figma to HTML, Pixel-perfect
+</p>
+</p>
+My goal is to broaden my skillset and create successful products for my client's business. 
+I’m always learning new and better ways to accomplish my work and deliver better, more efficient and amazing products to you.  Let's work together!
 </p>
 🔗 How to reach me: softstar116@gmail.com
 
