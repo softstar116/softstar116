@@ -16,9 +16,9 @@
 hello,I am a senior Full-stack developer with ove 7 years of experience in developing beautiful responsive websites using modern Javascript frameworks such as React,Angular and Vue.js
 <p>📌My tech stack:</br>
 - React (7 years of great experience), Redux(saga | thunk), React Hooks, Storybook, Next.js<br>
-- vue2,3,Nuxt.js,Vuetify
-- angular.js,angular(6+)
-- php frameworks(laravel,codeignitor,cakephp,symfony)
+- vue2,3,Nuxt.js,Vuetify<br>
+- angular.js,angular(6+)<br>
+- php frameworks(laravel,codeignitor,cakephp,symfony)<br>
 - TailwindCSS, Bootstrap, Material UI (5+ years)<br>
 - JavaScript/TypeScript/ES6+, ESLint (6+ years)<br>
 - Node/Express/Nest.js (4+ years)<br>
