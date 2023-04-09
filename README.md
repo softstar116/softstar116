@@ -27,7 +27,7 @@ For the last 5 years, I've been working as a web developer and provide support f
 - Api handling (Moralis)</br>
 - Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
 </p>
-🔗 How to reach me: palsev0415@gmail.com
+🔗 How to reach me: softstar116@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
