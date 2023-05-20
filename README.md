@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
+  <img src="https://github.com/SoftStar116/SoftStar116/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
@@ -66,25 +66,25 @@
 
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=IceDev528&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev528&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SoftStar116&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftStar116&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
   </a>
   
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=light"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SoftStar116&column=7&theme=light"/>
 </p>
 </p>
 </details>
 
 ## Contacts
   <div align="center"> 
-   <a href="mailto:iceprince.L528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:softstar116@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/lionel-robin-427181230" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  <a href="https://t.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
  
 </div>
